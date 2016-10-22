@@ -1,4 +1,3 @@
-//START FROM VIDEO 3:53 React Container Components vs Presentational Components!
 
 var React = require('react');
 var ReactRouter = require('react-router');
